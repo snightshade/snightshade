@@ -24,16 +24,17 @@ Long answer: either ask me, or dig through my repositories. Bound to be somethin
 
 ## What do you use?
 I'm glad you asked. My PC setup is:
-- Intel Core i7-3770
-- 16GB of DDR3
-- Nvidia GeForce GTX 970
-- 6 (yes, 6) drives (480GB SSD, 4x 500GB HDD, 1x 1TB HDD)
+- Razer Blade 15 Base Model (early 2021)
+- Intel Core i7-10750H
+- 16GB of DDR4
+- Nvidia GeForce RTX 3070 Laptop
+- 500GB SSD
+- Razer built-in display (1080p 144hz)
 - Samsung LC27JG56QQUXEN (1440p 144hz)
-- Samsung T22C300EW (1080p 60hz)
 - Oculus Rift S
 
 Software-wise, I like using:
-- Operating system: Windows 10, 64-bit, 20H2 (don't judge me.)
+- Operating system: Windows 10 Pro, 64-bit, 21H1
 - Code: a heavily customised version of Visual Studio Code (Insiders)
 - IDE: Microsoft Visual Studio 2019
 - DAW: Ableton Live 11 Suite/FL Studio 20
