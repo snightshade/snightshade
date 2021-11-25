@@ -34,10 +34,11 @@ I'm glad you asked. My PC setup is:
 - Oculus Rift S
 
 Software-wise, I like using:
-- Operating system: Windows 10 Pro, 64-bit, 21H1
+- Operating system: macOS Monterey 12.0.1
+- Alternative operating system: Windows 10 Pro, 64-bit, 21H1
 - Code: a heavily customised version of Visual Studio Code (Insiders)
-- IDE: Microsoft Visual Studio 2019
-- DAW: Ableton Live 11 Suite/FL Studio 20
+- IDE: Microsoft Visual Studio 2022
+- DAW: Logic Pro/Ableton Live 11 Suite/FL Studio 20
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
