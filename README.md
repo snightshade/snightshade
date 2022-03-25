@@ -1,6 +1,6 @@
 # Hi!
 ### My name is Rin. A dragon with a computer.
-I like to code things, ranging from game engines to Discord bots.
+I like to code things.
 
 ## You can reach me:
 - by emailing `lostkagamine at outlook dot com`
@@ -8,19 +8,16 @@ I like to code things, ranging from game engines to Discord bots.
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
 ## What do you do?
-I'm a freelance (read: unemployed) software developer, and hobbyist musician.
-You can check my Twitter for samples of songs, or ask me directly. I'll send you some.
+I'm a hobbyist software developer and musician.
+For my software work, this is the best resource. For my music, look [here](https://soundcloud.com/lostkagamine).
 
 [Oh yeah, I also have a fursona.](https://kagamine-r.in/sona.png)
 [Two, in fact.](https://twitter.com/lostkagamine/status/1357824812501127168)
 
-I'm passionate for working with C# in particular, lately. It's a great language and I'm having a lot of fun.  
-Do not ask me to do Python. I will look at you menacingly.
+I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
 ## What have you made?
-Short answer: too many things to list.  
-
-Long answer: either ask me, or dig through my repositories. Bound to be something interesting somewhere.
+A lot. Most of it is unfinished, sorry. Look through my repos - gotta be something neat somewhere, right?
 
 ## What do you use?
 My PC setup is:
