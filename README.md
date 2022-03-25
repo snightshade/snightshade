@@ -23,22 +23,23 @@ Short answer: too many things to list.
 Long answer: either ask me, or dig through my repositories. Bound to be something interesting somewhere.
 
 ## What do you use?
-I'm glad you asked. My PC setup is:
+My PC setup is:
 - Razer Blade 15 Base Model (early 2021)
 - Intel Core i7-10750H
 - 16GB of DDR4
 - Nvidia GeForce RTX 3070 Laptop
+- 500GB SSD
 - 500GB SSD
 - Razer built-in display (1080p 144hz)
 - Samsung LC27JG56QQUXEN (1440p 144hz)
 - Oculus Rift S
 
 Software-wise, I like using:
-- Operating system: macOS Monterey 12.0.1
-- Alternative operating system: Windows 10 Pro, 64-bit, 21H1
+- Operating system: Windows 10 Pro (x86_64)
 - Code: a heavily customised version of Visual Studio Code (Insiders)
+- Alternative editor: code-server on my VPS
 - IDE: Microsoft Visual Studio 2022
-- DAW: Logic Pro/Ableton Live 11 Suite/FL Studio 20
+- DAW: Ableton Live 11 Suite/FL Studio 20
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
