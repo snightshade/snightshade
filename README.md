@@ -4,6 +4,7 @@ I like to code things.
 
 ## You can reach me:
 - by emailing `lostkagamine at outlook dot com`
+- or `me at rin dot gay`
 - by finding me on [Twitter](https://twitter.com/lostkagamine), `@lostkagamine`
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
@@ -17,7 +18,8 @@ For my software work, this is the best resource. For my music, look [here](https
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
 ## What have you made?
-A lot. Most of it is unfinished, sorry. Look through my repos - gotta be something neat somewhere, right?
+My main project right now is [microlaunch](https://github.com/ry00001/microlaunch), an extensively-featured launcher
+for [FINAL FANTASY XIV](https://ffxiv.com) - native, for Linux users. It's written in Rust.
 
 ## What do you use?
 My PC setup is:
@@ -32,11 +34,11 @@ My PC setup is:
 - Oculus Rift S
 
 Software-wise, I like using:
-- Operating system: Windows 10 Pro (x86_64)
-- Code: a heavily customised version of Visual Studio Code (Insiders)
+- Operating system: Arch Linux (x86_64)
+- Code: a heavily customised version of Visual Studio Code
 - Alternative editor: code-server on my VPS
-- IDE: Microsoft Visual Studio 2022
-- DAW: Ableton Live 11 Suite/FL Studio 20
+- IDE: Microsoft Visual Studio 2022 (for when I'm on Windows)
+- DAW: FL Studio 20 / Ableton Live 11 Suite
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
