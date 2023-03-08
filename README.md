@@ -1,18 +1,19 @@
 # Hi!
-### My name is Luna. A dragon with a computer.
+### My name is Luna, dragon with an internet connection.
 (You can also call me Rika, or Rya. I go by she/they.)
 
 I like to code things.
 
-## You can reach me:
+## Who am I?
+I'm [a dragon](https://cdn.discordapp.com/attachments/1072202729692340245/1083161696803233893/dragn.jpg)<sup>[1](#references)</sup>. I'm also a hobbyist programmer and musician. 
+
+Contact me in these following ways:
 - by emailing `me at rya dot gay`
-- by finding me on [Twitter](https://twitter.com/lostkagamine), `@lostkagamine`
+- by finding me on twitter dot com, [`@lostkagamine`](https://twitter.com/lostkagamine)
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
 ## What do I do?
-I'm a hobbyist software developer and musician. I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
-
-[I'm a real dragon. Like, seriously. Take my word for it.](https://twitter.com/lostkagamine/status/1357824812501127168)
+I write code. If I'm lucky, it even works. I make music too, and I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
 
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
@@ -36,6 +37,9 @@ Software-wise, I like using:
 - Text editor: Visual Studio Code
 - IDE: JetBrains Rider
 - DAW: FL Studio 21
+
+# References
+ - 1: I am non-human. Respect it.
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
