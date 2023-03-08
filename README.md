@@ -1,10 +1,12 @@
 # Hi!
-### My name is Rin. A dragon with a computer.
+### My name is Luna. A dragon with a computer.
+(You can also call me Rika, or Rya. I go by she/they.)
+
 I like to code things.
 
 ## You can reach me:
 - by emailing `lostkagamine at outlook dot com`
-- or `me at rin dot gay`
+- or `me at rya dot gay`
 - by finding me on [Twitter](https://twitter.com/lostkagamine), `@lostkagamine`
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
@@ -12,14 +14,12 @@ I like to code things.
 I'm a hobbyist software developer and musician.
 For my software work, this is the best resource. For my music, look [here](https://soundcloud.com/lostkagamine).
 
-[Oh yeah, I also have a fursona.](https://kagamine-r.in/sona.png)
-[Two, in fact.](https://twitter.com/lostkagamine/status/1357824812501127168)
+[I'm a real dragon. Like, seriously. Take my word for it.](https://twitter.com/lostkagamine/status/1357824812501127168)
 
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
 ## What have you made?
-My main project right now is [microlaunch](https://github.com/ry00001/microlaunch), an extensively-featured launcher
-for [FINAL FANTASY XIV](https://ffxiv.com) - native, for Linux users. It's written in Rust.
+Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against both humanity and dragonkind](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
 
 ## What do you use?
 My PC setup is:
@@ -34,11 +34,10 @@ My PC setup is:
 - Oculus Rift S
 
 Software-wise, I like using:
-- Operating system: Arch Linux (x86_64)
-- Code: a heavily customised version of Visual Studio Code
-- Alternative editor: code-server on my VPS
-- IDE: Microsoft Visual Studio 2022 (for when I'm on Windows)
-- DAW: FL Studio 20 / Ableton Live 11 Suite
+- Operating system: Windows 10 Enterprise (x86_64) @ `PANDAEMONIUM`
+- Text editor: Visual Studio Code
+- IDE: JetBrains Rider
+- DAW: FL Studio 21
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
