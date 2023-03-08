@@ -10,7 +10,7 @@ I like to code things.
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
 ## What do I do?
-I'm a hobbyist software developer and musician.
+I'm a hobbyist software developer and musician. I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
 
 [I'm a real dragon. Like, seriously. Take my word for it.](https://twitter.com/lostkagamine/status/1357824812501127168)
 
