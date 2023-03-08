@@ -20,7 +20,7 @@ I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming l
 ## What have I made?
 Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against both humanity and dragonkind](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
 
-I am also founder and head of [Project Asakura](https://github.com/ProjectAsakura), an open-source **online network revival service** for defunct arcade racing game "Wangan Midnight Maximum Tune 6". My hosted instance boasts over 2,500 registered users!
+I am also founder and head of [Project Asakura](https://github.com/ProjectAsakura), an open-source **online network revival service** for defunct 2018 arcade racing game "[Wangan Midnight](https://en.wikipedia.org/wiki/Wangan_Midnight) Maximum Tune 6", created by Bandai Namco. My hosted instance boasts over 2,500 registered users!
 
 ## What do I use?
 My PC setup is:
