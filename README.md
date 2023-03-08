@@ -9,17 +9,17 @@ I like to code things.
 - by finding me on [Twitter](https://twitter.com/lostkagamine), `@lostkagamine`
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
-## What do you do?
+## What do I do?
 I'm a hobbyist software developer and musician.
 
 [I'm a real dragon. Like, seriously. Take my word for it.](https://twitter.com/lostkagamine/status/1357824812501127168)
 
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
-## What have you made?
+## What have I made?
 Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against both humanity and dragonkind](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
 
-## What do you use?
+## What do I use?
 My PC setup is:
 - Razer Blade 15 Base Model (early 2021)
 - Intel Core i7-10750H
