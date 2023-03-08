@@ -5,14 +5,12 @@
 I like to code things.
 
 ## You can reach me:
-- by emailing `lostkagamine at outlook dot com`
-- or `me at rya dot gay`
+- by emailing `me at rya dot gay`
 - by finding me on [Twitter](https://twitter.com/lostkagamine), `@lostkagamine`
 - ...or my preferred method, talk to me directly on Discord! `rin#3487`
 
 ## What do you do?
 I'm a hobbyist software developer and musician.
-For my software work, this is the best resource. For my music, look [here](https://soundcloud.com/lostkagamine).
 
 [I'm a real dragon. Like, seriously. Take my word for it.](https://twitter.com/lostkagamine/status/1357824812501127168)
 
