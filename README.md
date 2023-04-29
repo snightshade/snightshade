@@ -1,6 +1,6 @@
 # Hi!
-### My name is Luna, dragon with an internet connection.
-(You can also call me Rika, or Rya. I go by she/they.)
+### My name is Astelle Nightshade, dragon with an internet connection.
+(You can also call me Luna, Rika, or Rya. I go by she/they.)
 
 I like to code things.
 
