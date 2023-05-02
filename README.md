@@ -1,5 +1,5 @@
 # Hi!
-### My name is Astelle Nightshade, dragon with an internet connection.
+### My name is Astelle. I'm a dragon who found herself on the internet.
 (You can also call me Luna, Rika, or Rya. I go by she/they.)
 
 I like to code things.
