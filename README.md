@@ -28,10 +28,10 @@ I run [Nightshade Network](https://nightshade.network), a collection of private 
 My PC setup is:
 - Razer Blade 15 Base Model (early 2021)
 - Intel Core i7-10750H
-- 16GB of DDR4
+- 32GB of DDR4
 - Nvidia GeForce RTX 3070 Laptop
 - 500GB SSD
-- 500GB SSD
+- 2TB SSD
 - Razer built-in display (1080p 144hz)
 - Samsung LC27JG56QQUXEN (1440p 144hz)
 - Oculus Rift S
