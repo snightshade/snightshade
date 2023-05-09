@@ -1,11 +1,11 @@
 # Hi!
-### My name is Astelle. I'm a dragon who found herself on the internet.
+### My name is Astelle. I make software.
 (You can also call me Luna, Rika, or Rya. I go by she/they.)
 
 I like to code things.
 
 ## Who am I?
-I'm [a dragon](https://cdn.discordapp.com/attachments/1072202729692340245/1083161696803233893/dragn.jpg)<sup>[1](#references)</sup>. I'm also a hobbyist programmer and musician. 
+I'm a hobbyist programmer and musician who spends too much time on the Internet. 
 
 Contact me in these following ways:
 - by emailing anywhere at `nightshade.network`
@@ -18,7 +18,7 @@ I write code. If I'm lucky, it even works. I make music too, and I also play the
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
 ## What have I made?
-Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against both humanity and dragonkind](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
+Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against humanity](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
 
 I am also founder and head of [Project Asakura](https://github.com/ProjectAsakura), an open-source **online network revival service** for defunct 2018 arcade racing game "[Wangan Midnight](https://en.wikipedia.org/wiki/Wangan_Midnight) Maximum Tune 6", created by Bandai Namco. My hosted instance boasts over 2,500 registered users!
 
@@ -42,8 +42,18 @@ Software-wise, I like using:
 - IDE: JetBrains Rider
 - DAW: FL Studio 21
 
-# References
- - 1: I am non-human. Respect it.
+# Use of my software
+**Unless stated otherwise, any and all public repositories on this account are unsupported. Please do not ask about how to use them, as they are personal tools, more often than not.**
+You may still report issues, and I may get to them, but it is not a guarantee. I battle with burnout quite often,
+and I would like to keep the threat of falling into it to a minimum.
+
+That said, please respect the licenses. Most of my work is licensed MIT.
+
+# About private repositories
+A lot of work is under private repositories. I don't usually have any particular reason for keeping the code private,
+but it's most likely because I don't think the code is finished or ready enough to be in the public eye.
+
+Active projects will be open-sourced eventually.
 <!--
 **ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
