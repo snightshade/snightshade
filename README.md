@@ -10,7 +10,7 @@ I'm a hobbyist programmer and musician who spends too much time on the Internet.
 Contact me in these following ways:
 - by emailing anywhere at `nightshade.network`
 - by finding me on twitter dot com, [`@lostkagamine`](https://twitter.com/lostkagamine)
-- ...or my preferred method, talk to me directly on Discord! `rin#3487`
+- ...or my preferred method, talk to me directly on Discord! It's the same handle as Twitter, *but introduce yourself first elsewhere, otherwise I'll reject your request.*
 
 ## What do I do?
 I write code. If I'm lucky, it even works. I make music too, and I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
