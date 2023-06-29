@@ -1,6 +1,6 @@
 # Hi!
-### My name is Astelle. I make software.
-(You can also call me Luna, Rika, or Rya. I go by she/they.)
+### My name is Sylvie. I make software.
+(You can also call me Astelle/Stelle, Luna, Rika, or Rya. I go by she/they.)
 
 I like to code things.
 
