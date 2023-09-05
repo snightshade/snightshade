@@ -4,6 +4,9 @@
 
 I like to code things.
 
+## An update
+**As of September 4th, 2023, I am currently unhoused.** Please be patient regarding issues and support requests, and if you feel like helping me out a little bit, [you can do so here](https://paypal.me/ry00001) (or on Sponsors, but I won't get paid for that until 60 days have passed).
+
 ## Who am I?
 I'm a hobbyist programmer and musician who spends too much time on the Internet. 
 
