@@ -11,7 +11,7 @@ I like to code things.
 I'm a hobbyist programmer and musician who spends too much time on the Internet. 
 
 Contact me in these following ways:
-- by emailing anywhere at `nightshade.network`
+- by emailing `hi` at `sylvie.software`, or anywhere at `nightshade.network`
 - by finding me on twitter dot com, [`@lostkagamine`](https://twitter.com/lostkagamine)
 - ...or my preferred method, talk to me directly on Discord! It's the same handle as Twitter, *but introduce yourself first elsewhere, otherwise I'll reject your request.*
 
