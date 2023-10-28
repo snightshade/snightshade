@@ -12,8 +12,7 @@ I'm a hobbyist programmer and musician who spends too much time on the Internet.
 
 Contact me in these following ways:
 - by emailing `hi` at `sylvie.software`, or anywhere at `nightshade.network`
-- by finding me on twitter dot com, [`@lostkagamine`](https://twitter.com/lostkagamine)
-- ...or my preferred method, talk to me directly on Discord! It's the same handle as Twitter, *but introduce yourself first elsewhere, otherwise I'll reject your request.*
+- ...or my preferred method, talk to me directly on Discord! The handle is [the .NET namespace that contains P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke), *but introduce yourself first elsewhere, otherwise I'll reject your request.*
 
 ## What do I do?
 I write code. If I'm lucky, it even works. I make music too, and I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
