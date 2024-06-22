@@ -29,17 +29,17 @@ I run [Nightshade Network](https://nightshade.network), a collection of private 
 ## What do I use?
 My PC setup is:
 - Razer Blade 15 Base Model (early 2021)
-- Intel Core i7-10750H
-- 32GB of DDR4
-- Nvidia GeForce RTX 3070 Laptop
-- 500GB SSD
-- 2TB SSD
-- Razer built-in display (1080p 144hz)
-- Samsung LC27JG56QQUXEN (1440p 144hz)
-- Oculus Rift S
+- AMD Ryzen 9 7900X3D (12C, 24T) @ 4.40GHz
+- 32GB of DDR5-6000 RAM
+- AMD Radeon RX 7900 XT (20GB)
+- WD_BLACK SN770 2TB NVMe
+- Crucial P3 2TB NVMe
+- AOC CQ27G2SE (2560x1440, 165Hz)
+- Logitech G502 X Plus
+- Keychron Q5 Pro
 
 Software-wise, I like using:
-- Operating system: Windows 10 Enterprise (x86_64) @ `PANDAEMONIUM`
+- Operating system: Windows 10 Enterprise (x86_64) @ `ARCADION`
 - Text editor: Visual Studio Code
 - IDE: JetBrains Rider
 - DAW: FL Studio 21
