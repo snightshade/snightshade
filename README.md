@@ -27,8 +27,7 @@ I am also founder and head of [Project Asakura](https://github.com/ProjectAsakur
 I run [Nightshade Network](https://nightshade.network), a collection of private 'friend cloud' services for me and friends. It's powered by [Hetzner](https://hetzner.com), [Tailscale](https://tailscale.com) and [NixOS](https://nixos.org).
 
 ## What do I use?
-My PC setup is:
-- Razer Blade 15 Base Model (early 2021)
+My PC setup consists of a custom desktop computer:
 - AMD Ryzen 9 7900X3D (12C, 24T) @ 4.40GHz
 - 32GB of DDR5-6000 RAM
 - AMD Radeon RX 7900 XT (20GB)
