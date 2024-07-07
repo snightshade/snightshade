@@ -1,26 +1,23 @@
 # Hi!
 ### My name is Sylvie. I make software.
-(I go by she/they.)
+(I go by she/it.)
 
 I like to code things.
 
-## An update
-~~**As of September 4th, 2023, I am currently unhoused.** Please be patient regarding issues and support requests, and if you feel like helping me out a little bit, [you can do so here](https://paypal.me/ry00001) (or on Sponsors, but I won't get paid for that until 60 days have passed).~~ As of September 11th, **I have a home again!**
-
 ## Who am I?
-I'm a hobbyist programmer and musician who spends too much time on the Internet. 
+I'm a hobbyist programmer. 
 
 Contact me in these following ways:
 - by emailing `hi` at `sylvie.software`, or anywhere at `nightshade.network`
-- ...or my preferred method, talk to me directly on Discord! The handle is [the .NET namespace that contains P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke), *but introduce yourself first elsewhere, otherwise I'll reject your request.*
+- ...or my preferred method, talk to me directly on Discord. The handle is [the .NET namespace that contains P/Invoke](https://learn.microsoft.com/en-us/dotnet/standard/native-interop/pinvoke), *but introduce yourself first elsewhere, otherwise I'll reject your request.*
 
 ## What do I do?
-I write code. If I'm lucky, it even works. I make music too, and I also play the critically-acclaimed MMORPG [FINAL FANTASY XIV](https://finalfantasyxiv.com) more than I should, so some of my work overlaps into that.
+I write code, sometimes make music and play Final Fantasy XIV.
 
 I like the [Rust](https://rust-lang.org) and [C#](https://dot.net) programming languages a lot.
 
 ## What have I made?
-Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/ry00001/OpenTK_ImGui_Backends) to [crimes against humanity](https://github.com/ry00001/rustic-c). Ask me about some of my weirder projects.
+Too much to list, from [OpenGL/ImGui integration with C#](https://github.com/lostkagamine/OpenTK_ImGui_Backends) to [crimes against humanity](https://github.com/lostkagamine/rustic-c). Ask me about some of my weirder projects.
 
 I am also founder and head of [Project Asakura](https://github.com/ProjectAsakura), an open-source **online network revival service** for defunct 2018 arcade racing game "[Wangan Midnight](https://en.wikipedia.org/wiki/Wangan_Midnight) Maximum Tune 6", created by Bandai Namco. My hosted instance boasts over 2,500 registered users!
 
@@ -55,17 +52,3 @@ A lot of work is under private repositories. I don't usually have any particular
 but it's most likely because I don't think the code is finished or ready enough to be in the public eye.
 
 Active projects will be open-sourced eventually.
-<!--
-**ry00001/ry00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
