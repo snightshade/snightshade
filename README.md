@@ -34,6 +34,9 @@ My PC setup consists of a custom desktop computer:
 - Logitech G502 X Plus
 - Keychron Q5 Pro
 
+My portable setup is:
+- MacBook Air (13", 2024, M3, 16GB/512GB)
+
 Software-wise, I like using:
 - Operating system: Windows 10 Enterprise (x86_64) @ `ARCADION`
 - Text editor: Visual Studio Code
