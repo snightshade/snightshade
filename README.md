@@ -36,6 +36,11 @@ My PC setup consists of a custom desktop computer:
 
 My portable setup is:
 - MacBook Air (13", 2024, M3, 16GB/512GB)
+- AirPods Pro (2nd generation)
+- iPhone 15 Pro Max
+- iPad mini (6th generation)
+- Apple Watch Series 9
+- (The peripherals work well enough I don't need an external keyboard, but I have a no-name Bluetooth mouse too.)
 
 Software-wise, I like using:
 - Operating system: Windows 10 Enterprise (x86_64) @ `ARCADION`
