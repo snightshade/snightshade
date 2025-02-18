@@ -44,9 +44,8 @@ My portable setup is:
 
 Software-wise, I like using:
 - Operating system: Windows 10 Enterprise (x86_64) @ `ARCADION`
-- Operating system: macOS 15.1 Sequoia Beta
 - Text editor: Visual Studio Code
-- Text editor: Zed
+- Text editor: Zed (macOS)
 - IDE: JetBrains Rider
 - DAW: FL Studio 21
 
