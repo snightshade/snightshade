@@ -3,8 +3,6 @@ Wannabe reverse-engineer and gamehacker; big proponent of running inside address
 
 C# is my favourite programming language of all time. Will understand if you speak in English or Italian, might understand if you speak in Japanese.
 
-Spicier stuff is on [my Git server](https://git.nightshade.network).
-
 Contact me: `hi` U+0040 `sylvie` U+002E `software`  
 My homelab: [@nightshade-network](https://github.com/nightshade-network)
 
