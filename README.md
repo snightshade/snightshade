@@ -8,4 +8,4 @@ Spicier stuff is on [my Git server](https://git.nightshade.network).
 Contact me: `hi` U+0040 `sylvie` U+002E `software`  
 My homelab: [@nightshade-network](https://github.com/nightshade-network)
 
-Pretty important note: **all projects from before 2024 are explicitly disavowed until specified otherwise.** Drawing my attention to them will just cause me to set them private. Moreover, all projects on this GitHub page come with absolutely zero guarantees of functionality, or of being easy to modify. Most of the time, they are tools for personal usage.
+Pretty important note: **all projects from before 2025 are explicitly disavowed until specified otherwise.** Drawing my attention to them will just cause me to set them private. Moreover, all projects on this GitHub page come with absolutely zero guarantees of functionality, or of being easy to modify. Most of the time, they are tools for personal usage.
